@@ -1,5 +1,5 @@
 # My-Learning-List
-1. ## Introduction of Object Oriented Programming - 09/04/2022
+## 1. uIntroduction of Object Oriented Programming - 09/04/2022
 [Article on educative](https://www.educative.io/blog/object-oriented-programming)
 
 
