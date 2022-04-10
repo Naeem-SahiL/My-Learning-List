@@ -115,8 +115,9 @@ you can use mutable. It allows to change content of variable even inside const m
 
 ## super Keyword
 Normally in other languages like java, it is used to call a method of parent class. Like:
-
-class Base{
+```
+class Base
+{
 	public:
 		void print(){cout<<"I am Base class";}
 };
@@ -131,10 +132,11 @@ class Derived:public Base{
 };
 
 int main(){
-    
+
     Derived B;
     B.super::print();
 }
 
 Output:
 I am Base class
+```
