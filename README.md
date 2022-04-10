@@ -13,7 +13,7 @@
 yes in case of aggregation and composition
 [Read more](https://stackoverflow.com/questions/44611995/can-we-create-an-object-outside-of-methods-but-inside-the-class-if-yes-then-wha)
 
-##Can Class and Object exist or use Individually?
+## Can Class and Object exist or use Individually?
 Class can be used without creating object if taht method of class is static.
 
 ## Static Keyword 
