@@ -124,7 +124,7 @@ class Base
 
 class Derived:public Base{
 	public:
-	typedef Base super;
+		typedef Base super;
 		void print(){
 		    cout<<"I am Derived class";
 		  //  super::print();
